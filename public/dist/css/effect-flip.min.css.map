@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,AAAC,CACX,QAAQ,CAAE,OAAO,CAsBlB,AAvBD,AAEE,YAFU,CAEV,aAAa,AAAC,CACZ,cAAc,CAAE,IAAI,CACpB,mBAAmB,CAAE,MAAM,CAC3B,OAAO,CAAE,CAAC,CAIX,AATH,AAMI,YANQ,CAEV,aAAa,CAIX,aAAa,AAAC,CACZ,cAAc,CAAE,IAAI,CACrB,AARL,AAWI,YAXQ,CAUV,oBAAoB,CAVtB,YAAY,CAUV,oBAAoB,CAEhB,oBAAoB,AAAC,CACrB,cAAc,CAAE,IAAI,CACrB,AAdL,AAgBE,YAhBU,CAgBV,wBAAwB,CAhB1B,YAAY,CAiBV,2BAA2B,CAjB7B,YAAY,CAkBV,yBAAyB,CAlB3B,YAAY,CAmBV,0BAA0B,AAAC,CACzB,OAAO,CAAE,CAAC,CACV,mBAAmB,CAAE,MAAM,CAC5B",
+    "sources": [
+        "../../assets/vendor/swiper/modules/effect-flip/effect-flip.scss"
+    ],
+    "names": [],
+    "file": "effect-flip.min.css"
+}

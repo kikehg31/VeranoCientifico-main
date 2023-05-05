@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,OAAO,CAAC,oBAAoB,AAAC,CAC3B,QAAQ,CAAE,QAAQ,CAClB,IAAI,CAAE,CAAC,CACP,GAAG,CAAE,CAAC,CACN,cAAc,CAAE,IAAI,CACpB,OAAO,CAAE,CAAC,CACV,OAAO,CAAE,KAAK,CACf",
+    "sources": [
+        "../../assets/vendor/swiper/modules/a11y/a11y.scss"
+    ],
+    "names": [],
+    "file": "a11y.min.css"
+}

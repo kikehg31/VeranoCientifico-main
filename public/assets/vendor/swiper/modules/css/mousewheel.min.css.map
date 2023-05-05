@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../mousewheel/mousewheel.scss"
+    ],
+    "names": [],
+    "file": "mousewheel.min.css"
+}

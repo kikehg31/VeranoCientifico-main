@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../assets/vendor/swiper/modules/autoplay/autoplay.scss"
+    ],
+    "names": [],
+    "file": "autoplay.min.css"
+}

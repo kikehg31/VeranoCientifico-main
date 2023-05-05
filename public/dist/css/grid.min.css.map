@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAG,eAAe,AAAC,CAC7B,SAAS,CAAE,IAAI,CAChB,AACD,AAAA,mBAAmB,CAAG,eAAe,AAAC,CACpC,SAAS,CAAE,IAAI,CACf,cAAc,CAAE,MAAM,CACvB",
+    "sources": [
+        "../../assets/vendor/swiper/modules/grid/grid.scss"
+    ],
+    "names": [],
+    "file": "grid.min.css"
+}

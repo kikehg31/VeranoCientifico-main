@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/lg-variables.scss"
+    ],
+    "names": [],
+    "file": "lg-variables.min.css"
+}
